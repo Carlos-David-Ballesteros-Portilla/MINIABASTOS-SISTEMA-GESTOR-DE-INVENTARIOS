@@ -1,0 +1,5 @@
+# MINIABASTOS no necesita dependencias externas.
+# Usa solo la biblioteca estándar de Python: tkinter, sqlite3, decimal y unittest.
+#
+# En Linux, Tkinter puede requerir instalar el paquete del sistema:
+#   Debian/Ubuntu:  sudo apt install python3-tk
